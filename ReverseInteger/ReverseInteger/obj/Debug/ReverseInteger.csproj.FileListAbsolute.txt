@@ -1,0 +1,6 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\ReverseInteger\ReverseInteger\bin\Debug\ReverseInteger.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\ReverseInteger\ReverseInteger\bin\Debug\ReverseInteger.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\ReverseInteger\ReverseInteger\bin\Debug\ReverseInteger.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\ReverseInteger\ReverseInteger\obj\Debug\ReverseInteger.csprojResolveAssemblyReference.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\ReverseInteger\ReverseInteger\obj\Debug\ReverseInteger.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\ReverseInteger\ReverseInteger\obj\Debug\ReverseInteger.pdb
