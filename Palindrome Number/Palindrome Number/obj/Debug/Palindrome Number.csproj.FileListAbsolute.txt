@@ -1,0 +1,6 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Palindrome Number\Palindrome Number\bin\Debug\Palindrome Number.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Palindrome Number\Palindrome Number\bin\Debug\Palindrome Number.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Palindrome Number\Palindrome Number\bin\Debug\Palindrome Number.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Palindrome Number\Palindrome Number\obj\Debug\Palindrome Number.csprojResolveAssemblyReference.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Palindrome Number\Palindrome Number\obj\Debug\Palindrome Number.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Palindrome Number\Palindrome Number\obj\Debug\Palindrome Number.pdb
