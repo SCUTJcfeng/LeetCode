@@ -1,0 +1,6 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.csprojResolveAssemblyReference.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Roman to Integer\Roman to Integer\bin\Debug\Roman to Integer.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Roman to Integer\Roman to Integer\bin\Debug\Roman to Integer.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Roman to Integer\Roman to Integer\bin\Debug\Roman to Integer.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.pdb
