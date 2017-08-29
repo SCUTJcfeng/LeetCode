@@ -1,0 +1,7 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.csprojResolveAssemblyReference.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Valid Parentheses\Valid Parentheses\bin\Debug\Valid Parentheses.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Valid Parentheses\Valid Parentheses\bin\Debug\Valid Parentheses.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Valid Parentheses\Valid Parentheses\bin\Debug\Valid Parentheses.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.pdb
