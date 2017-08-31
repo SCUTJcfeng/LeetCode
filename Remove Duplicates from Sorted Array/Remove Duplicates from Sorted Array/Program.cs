@@ -21,6 +21,8 @@ namespace Remove_Duplicates_from_Sorted_Array
     {
         public int RemoveDuplicates(int[] nums)
         {
+            if (nums.Length == 0)
+                return 0;
             int temp = 0;
             for (int i = 1; i < nums.Length; i++)
             {
