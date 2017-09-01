@@ -1,0 +1,7 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Remove Element\Remove Element\bin\Debug\Remove Element.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Remove Element\Remove Element\bin\Debug\Remove Element.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Remove Element\Remove Element\bin\Debug\Remove Element.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Remove Element\Remove Element\obj\Debug\Remove Element.csprojResolveAssemblyReference.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Remove Element\Remove Element\obj\Debug\Remove Element.csproj.CoreCompileInputs.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Remove Element\Remove Element\obj\Debug\Remove Element.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Remove Element\Remove Element\obj\Debug\Remove Element.pdb
