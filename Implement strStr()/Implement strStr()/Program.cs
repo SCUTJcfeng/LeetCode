@@ -13,7 +13,7 @@ namespace Implement_strStr__
         static void Main(string[] args)
         {
             Solution solution = new Solution();
-            Console.WriteLine(solution.StrStr("1234456789", "456"));
+            Console.WriteLine(solution.StrStr("123456789", "456"));
             Console.ReadLine();
         }
     }
@@ -25,15 +25,10 @@ namespace Implement_strStr__
             var i = 0;
             while (i < haystack.Length - needle.Length + 1)
             {
-                var k = i;
-                while (k < haystack.Length - needle.Length + 1)
+                var s = haystack.Substring(i, needle.Length);
+                if (s == needle)
                 {
-                    var s = haystack.Substring(k, needle.Length);
-                    if (s == needle)
-                    {
-                        return k;
-                    }
-                    k++;
+                    return i;
                 }
                 i++;
             }
