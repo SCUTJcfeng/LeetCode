@@ -1,0 +1,7 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Implement strStr()\Implement strStr()\bin\Debug\Implement strStr().exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Implement strStr()\Implement strStr()\bin\Debug\Implement strStr().exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Implement strStr()\Implement strStr()\bin\Debug\Implement strStr().pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Implement strStr()\Implement strStr()\obj\Debug\Implement strStr().csprojResolveAssemblyReference.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Implement strStr()\Implement strStr()\obj\Debug\Implement strStr().csproj.CoreCompileInputs.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Implement strStr()\Implement strStr()\obj\Debug\Implement strStr().exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Implement strStr()\Implement strStr()\obj\Debug\Implement strStr().pdb
