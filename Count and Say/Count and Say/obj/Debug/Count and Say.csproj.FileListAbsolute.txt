@@ -1,0 +1,6 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Count and Say\Count and Say\bin\Debug\Count and Say.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Count and Say\Count and Say\bin\Debug\Count and Say.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Count and Say\Count and Say\bin\Debug\Count and Say.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Count and Say\Count and Say\obj\Debug\Count and Say.csproj.CoreCompileInputs.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Count and Say\Count and Say\obj\Debug\Count and Say.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Count and Say\Count and Say\obj\Debug\Count and Say.pdb
