@@ -1,0 +1,7 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Add Digits\Add Digits\bin\Debug\Add Digits.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Add Digits\Add Digits\bin\Debug\Add Digits.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Add Digits\Add Digits\bin\Debug\Add Digits.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Add Digits\Add Digits\obj\Debug\Add Digits.csprojResolveAssemblyReference.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Add Digits\Add Digits\obj\Debug\Add Digits.csproj.CoreCompileInputs.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Add Digits\Add Digits\obj\Debug\Add Digits.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Add Digits\Add Digits\obj\Debug\Add Digits.pdb
